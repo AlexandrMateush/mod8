@@ -2,6 +2,9 @@ public class Shape {
     public String figure(){
         return "Shape";
     }
+    
+}
+class AutShape {
     public static void main(String[] args) {
         Shape circle = new Circle();
         Shape quad = new Quad();
