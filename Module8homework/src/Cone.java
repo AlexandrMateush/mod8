@@ -1,6 +1,7 @@
 public class Cone extends Shape{
     @Override
-    public String figure() {
-        return "Cone";
+    public  String figure() {
+        name = "Cone";
+        return name;
     }
 }

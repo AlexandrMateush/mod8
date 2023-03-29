@@ -1,6 +1,8 @@
 public class Rectangle extends Shape{
     @Override
     public String figure() {
-        return "Rectangle";
+        name ="Rectangle";
+        return name;
     }
+
 }
