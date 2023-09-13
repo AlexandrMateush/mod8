@@ -3,4 +3,8 @@ public class Cone extends Shape{
     public String figure() {
         return "Cone";
     }
+
+
+
+
 }
